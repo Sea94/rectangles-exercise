@@ -18,7 +18,7 @@ Install dependencies:
 `pip install pygame`
 
 ## Running the app
-You can run the application directly by executing the `rectangles` exec file.
+You can run the application directly by executing the `rectangles` exec file. It might take up to 20 sec for the app to load.
 
 Otherwise, navigate to the folder with the `rectangles.py` script and run the command: `python rectangles.py`
 
