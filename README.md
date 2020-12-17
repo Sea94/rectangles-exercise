@@ -3,6 +3,12 @@
 This repo contains the python script along with an executable file running a simple application for interacting with two rectanlges.
 The rectangles can be moved around the screen with a mouse and resized with arrow keys. The notification message is shown in case the rectangles overlap.
 
+<div style="background:#010023;" align="center">
+  <p>
+  <img src="demo.gif" width="200" />
+  </p>
+</div>
+
 The application is written in Python 3.7 using [Pygame](https://www.pygame.org/docs/).
 
 ## Requirements
