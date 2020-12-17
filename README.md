@@ -19,6 +19,7 @@ Install dependencies:
 
 ## Running the app
 You can run the application directly by executing the `rectangles` exec file, which you can [download from Google Drive](https://drive.google.com/file/d/1AvFMvsM9kbSJ0WEoxaZSdLYx9Gq14-MX/view?usp=sharing) (stored externally due to file size limit on githib). Once downloaded, run the file locally. It might take up to 20 sec for the app to load.
+
 _The exec file was created with [pyinstaller](https://www.pyinstaller.org/) utility and tested on MacOS Catalina 10.15.7._
 
 Otherwise, navigate to the folder with the `rectangles.py` script and run the command: `python rectangles.py`
