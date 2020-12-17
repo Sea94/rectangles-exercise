@@ -5,7 +5,7 @@ The rectangles can be moved around the screen with a mouse and resized with arro
 
 <div style="background:#010023;" align="center">
   <p>
-  <img src="demo.gif" width="200" />
+  <img src="demo.gif" width="400" />
   </p>
 </div>
 
