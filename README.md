@@ -41,4 +41,4 @@ _Disclaimer: To the best on my knowledge, [Repl.it](https://repl.it/) is the onl
 ## Directions for improvement
 * Fix the known issues.
 * Make rectangles resizable with mouse events rather than keyboard input to use single interaction modality.
-* Possibly, only highlight the intersection area when the rectangles overlapinstead of highlighting the whole rectangle shape.
+* Possibly, only highlight the intersection area when the rectangles overlap instead of highlighting the whole rectangle shape.
