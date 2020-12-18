@@ -1,7 +1,7 @@
 # Rectangles exercise
 ## Description
 This repo contains the python script along with a [link to a downloadable executable file](https://drive.google.com/file/d/1AvFMvsM9kbSJ0WEoxaZSdLYx9Gq14-MX/view?usp=sharing) running a simple application for interacting with two rectanlges.
-The rectangles can be moved around the screen with a mouse and resized with arrow keys. The notification message is shown in case the rectangles overlap.
+The rectangles can be moved around the screen with a mouse and resized with arrow keys. Currently selected rectangle is outlined with a light-green bounding box. The notification message is shown in case the rectangles overlap.
 
 <div style="background:#010023;" align="center">
   <p>
